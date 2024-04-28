@@ -585,6 +585,7 @@ test('Parse MIN Aggregate Query', () => {
         fields: ['MIN(age)'],
         table: 'student',
         whereClauses: [],
+        isDistinct: false,
         groupByFields: null,
         hasAggregateWithoutGroupBy: true,
         "joinCondition": null,
