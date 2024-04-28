@@ -29,4 +29,4 @@ Node version should be 18.17.0^ || <= 20
 ## Installation
 
 ```bash
-npm install stylusdb-sql
+npm install stylusdb-sql-vivek
