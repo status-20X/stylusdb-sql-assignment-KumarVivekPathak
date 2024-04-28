@@ -1,6 +1,6 @@
 {
   "name": "stylusdb-sql-vivek",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "description": "A minimal SQL based DB based on CSV files. For educational purposes only.",
   "main": "./src/index.js",
   "directories": {
